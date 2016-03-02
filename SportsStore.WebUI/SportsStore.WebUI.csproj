@@ -159,10 +159,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
+    <Folder Include="App_Start\App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\SportsStore.Domain.csproj">
+    <ProjectReference Include="..\SportsStore.Domain\SportsStore.Domain.csproj">
       <Project>{138ad48e-b4a4-42ca-b4b8-2ecf64c81467}</Project>
       <Name>SportsStore.Domain</Name>
     </ProjectReference>

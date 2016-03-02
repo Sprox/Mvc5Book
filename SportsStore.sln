@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.WebUI", "Sports
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.UnitTests", "SportsStore.UnitTests\SportsStore.UnitTests.csproj", "{B0ECEB32-E2CB-4FB4-91FC-F504364B9D9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.Domain", "ClassLibrary1\SportsStore.Domain.csproj", "{138AD48E-B4A4-42CA-B4B8-2ECF64C81467}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.Domain", "SportsStore.Domain\SportsStore.Domain.csproj", "{138AD48E-B4A4-42CA-B4B8-2ECF64C81467}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
